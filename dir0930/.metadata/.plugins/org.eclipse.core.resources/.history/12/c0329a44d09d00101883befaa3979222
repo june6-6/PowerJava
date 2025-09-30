@@ -1,0 +1,9 @@
+// break 문: 반복문을 벗어날 때 사
+public class Ex14 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

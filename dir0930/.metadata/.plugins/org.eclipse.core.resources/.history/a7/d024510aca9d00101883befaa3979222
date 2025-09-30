@@ -1,0 +1,17 @@
+// -1이 입력될 때까지 입력한 정수의 합 구하기 
+
+import java.util.Scanner;
+
+public class Ex11 {
+
+	public static void main(String[] args) {
+		int sum = 0; 
+		Scanner sc = new Scanner(System.in);
+		
+		while(num != -1) {
+			sum = sc.nextInt();
+			sum += sum;
+		}
+	}
+
+}

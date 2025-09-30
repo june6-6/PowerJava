@@ -1,0 +1,16 @@
+
+import java.util.Scanner;
+
+public class Ex13 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int month;
+		
+		do {
+			System.out.print("월을 입력(1~12): ");
+			month = sc.nextInt();
+		}while()
+	}
+
+}

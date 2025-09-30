@@ -1,0 +1,9 @@
+// 1부터 10까지 정수의 합 구하기
+public class Ex06 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

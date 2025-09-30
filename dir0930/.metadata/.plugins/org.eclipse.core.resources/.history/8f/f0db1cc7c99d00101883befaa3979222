@@ -1,0 +1,9 @@
+// -1이 입력될 때까지 입력한 정수의 합 구하기 
+public class Ex11 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

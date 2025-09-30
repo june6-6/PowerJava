@@ -1,0 +1,22 @@
+// do while 반복문: while 문과 다른 점은 조건을 검사하기 전에 블록 안의 문장을 실행
+// while 문은 조건이 거짓이면 블록 안의 문장을 한 번도 실행하지 않음
+// do while문은 먼저 블록 안의 문장을 실행하고 나서 조건을 검사하기 때문에 적어도 한 번은 샐행
+
+public class Ex12 {
+
+	public static void main(String[] args) {
+		int i = 0;
+		
+		do {
+			System.out.println("반드시 실행!");
+			i++;
+		} while (i < 3);
+		do {
+			System.out.println("반드시 실행!");
+			i++;
+		} while (i > 3);
+		
+		System.out.println("프로그램 끝!");
+	}
+
+}

@@ -1,0 +1,8 @@
+// while 반복문: 어떤 조건을 정해놓고 반복하는 구조, 즉 조건으로 반복할 때 사용
+public class Ex10 {
+
+	public static void main(String[] args) {
+		int i = 0;
+	}
+
+}

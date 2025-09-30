@@ -1,0 +1,20 @@
+//출력하고자 하는 구구단의 단수를 입력받아서 해당 구구단을 출력하시오
+
+import java.util.Scanner;
+
+public class Ex07 {
+
+	public static void main(String[] args) {
+		int dan;
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("몇 단을 출력할까요? ");
+		dan = sc.nextInt();
+		
+		for (int i = 1; i < 10; i++) {
+			System.out.println(dan + " x " + i + " = " + (dan * i));
+		}
+		
+	}
+
+}
